@@ -1,5 +1,5 @@
 {
   "schemaVersion": 1,
-  "minimumSupportedVersion": null,
-  "reason": null
+  "minimumSupportedVersion": "1.4.0",
+  "reason": "يلزم تحديث التطبيق إلى الإصدار 1.3.0 لتجنب نتائج إعراب قديمة قد تكون غير صحيحة."
 }
